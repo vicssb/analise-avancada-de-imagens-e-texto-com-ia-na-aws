@@ -7,27 +7,27 @@
   
 </p> 
 
-Project used to exemplify the use of [AWS Textract](https://docs.aws.amazon.com/pt_br/textract/latest/dg/API_AnalyzeDocument.html) in extracting data from the National Driver's License (CNH).
+Projeto usado para exemplificar o uso do [AWS Textract](https://docs.aws.amazon.com/pt_br/textract/latest/dg/API_AnalyzeDocument.html) na extração de dados da Carteira Nacional de Trânsito (CNH).
 
-## Prerequisites
+## Pré requisitos
 
 - Python
 - Uv
 - Conta AWS
 
-## Environment configuration
+## Configuração do ambiente
 
-You need to configure a user in IAM with access to the Textract service.
+É necessário configurar um usuário no IAM com acesso ao serviço Textract.
 
-## Installation
+## Instalação
 
-To install the project dependencies use the command:
+Para instalar as dependências do projeto utilize o comando:
 
 ```sh
 uv install
 ```
 
-## Execution
+## Execução
 
 ```
 uv run main.py

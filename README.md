@@ -9,7 +9,7 @@
 
 Contains the projects developed during the course `Nexa - Advanced Image and Text Analysis with AI on AWS`.
 
-## Projetos
+## Projects
 
 - [OCR CNH](./ocr_cnh/)
 - [OCR School List](./ocr_lista_escolar/)
