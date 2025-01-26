@@ -27,7 +27,7 @@ To install the project dependencies use the command:
 uv install
 ```
 
-## Execução
+## Execution
 
 ```
 uv run main.py

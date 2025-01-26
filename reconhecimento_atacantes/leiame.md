@@ -3,11 +3,11 @@
   <div align="right"> 
 <a href="./README.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
-  <H1><b>Reconhecimento Celebridades</b> </H1>
+  <H1><b>Reconhecimento Atacantes</b> </H1>
   
 </p> 
 
-Projeto usado para exemplificar o uso do [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_RecognizeCelebrities.html) no reconhecimento dos rostos de celebridades.
+Projeto usado para exemplificar o uso do [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_CompareFaces.html) na detecção de rosto em fotos.
 
 ## Pré requisitos
 

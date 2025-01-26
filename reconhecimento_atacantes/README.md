@@ -1,26 +1,33 @@
-# Reconhecimento Atacantes
+<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p>
+  <div align="right"> 
+<a href="./README.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+</div>
+  <H1><b>Attacker Recognition</b> </H1>
+  
+</p> 
 
-Projeto usado para exemplificar o uso do [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_CompareFaces.html) na detecção de rosto em fotos.
+Project used to exemplify the use of [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_CompareFaces.html) in face detection in photos.
 
-## Pré requisitos
+## Prerequisites
 
 - Python
 - Uv
 - Conta AWS
 
-## Configuração do ambiente
+## Environment configuration
 
-É necessário configurar um usuário no IAM com acesso ao serviço Rekognition.
+You need to configure a user in IAM with access to the Textract service.
 
-## Instalação
+## Installation
 
-Para instalar as dependências do projeto utilize o comando:
+To install the project dependencies use the command:
 
 ```sh
 uv install
 ```
 
-## Execução
+## Execution
 
 ```
 uv run main.py
