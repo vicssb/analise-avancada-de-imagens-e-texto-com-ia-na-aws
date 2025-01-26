@@ -3,11 +3,12 @@
   <div align="right"> 
 <a href="./README.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
-  <H1><b>OCR CNH</b> </H1>
+  <H1><b>OCR Lista Escolar</b> </H1>
   
 </p> 
 
-Projeto usado para exemplificar o uso do [AWS Textract](https://docs.aws.amazon.com/pt_br/textract/latest/dg/API_AnalyzeDocument.html) na extração de dados da Carteira Nacional de Trânsito (CNH).
+
+Projeto usado para exemplificar o uso do [AWS Textract](https://docs.aws.amazon.com/pt_br/textract/latest/dg/API_DetectDocumentText.html) na extração de textos em imagens simples.
 
 ## Pré requisitos
 
