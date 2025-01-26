@@ -3,31 +3,31 @@
   <div align="right"> 
 <a href="./README.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
-  <H1><b>Reconhecimento Celebridades</b> </H1>
+  <H1><b>Celebrity Recognition</b> </H1>
   
 </p> 
 
-Projeto usado para exemplificar o uso do [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_RecognizeCelebrities.html) no reconhecimento dos rostos de celebridades.
+Project used to exemplify the use of [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_RecognizeCelebrities.html) no recognition of celebrity faces.
 
-## Pré requisitos
+## Prerequisites
 
 - Python
 - Uv
 - Conta AWS
 
-## Configuração do ambiente
+## Environment configuration
 
-É necessário configurar um usuário no IAM com acesso ao serviço Rekognition.
+You need to configure a user in IAM with access to the Textract service.
 
-## Instalação
+## Installation
 
-Para instalar as dependências do projeto utilize o comando:
+To install the project dependencies use the command:
 
 ```sh
 uv install
 ```
 
-## Execução
+## Execution
 
 ```
 uv run main.py
